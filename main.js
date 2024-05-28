@@ -44,5 +44,5 @@ background('#969A97');
   textSize(difference);
   fill('#F90093');
   stroke('#F90093');
-  text("Sagnik",noseX,noseY);
+  text(noseX,noseY,"Sagnik");
 }
